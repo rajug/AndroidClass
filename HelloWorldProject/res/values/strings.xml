@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_string">Hello Xprtech!</string>
+    <string name="second_string">Hello Second Activity!</string>
+    <string name="title_show_toast_button">Show me a Toast</string>
+    
+</resources>
